@@ -1,0 +1,13 @@
+Package: sDevTest
+Type: Package
+Title: Functions for Automated Testing
+Version: 0.0.0.9000
+Author: Theo Schrock
+Description: Functions for Automated Testing used exclusively for testing ran by testthat.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    exprTools
+RoxygenNote: 7.1.1
+Maintainer: <theorschrock@gmail.com>
