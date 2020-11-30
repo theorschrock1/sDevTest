@@ -11,3 +11,5 @@ Imports:
     exprTools
 RoxygenNote: 7.1.1
 Maintainer: <theorschrock@gmail.com>
+URL: https://github.com/theorschrock1/sDevTest
+BugReports: https://github.com/theorschrock1/sDevTest/issues
