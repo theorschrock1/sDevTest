@@ -5,8 +5,15 @@ library(sDevTools)
 
 #Package metadata
 
-fill_description(pkg_name = "sDevTest", pkg_title = "Functions for Automated Testing", pkg_description = "Functions for Automated Testing used exclusively for testing ran by testthat.",
-  author_first_name = "Theo", author_last_name = "Schrock", author_email = "<theorschrock@gmail.com>")
+
+fill_description(
+  pkg_name = "sDevTest",
+  pkg_title = "Functions for Automated Testing",
+  pkg_description = "Functions for Automated Testing used exclusively for testing ran by testthat.",
+  author_first_name = "Theo",
+  author_last_name = "Schrock",
+  author_email = "<theorschrock@gmail.com>"
+)
 
 # Package dependencies (IMPORTS)
 
