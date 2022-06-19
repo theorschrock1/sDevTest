@@ -16,3 +16,4 @@ new_fn((),#args
  return=  #Function returns
  )
 
+commit_all_to_github()
